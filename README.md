@@ -6,6 +6,8 @@ Here you can download all the things made available to the public by 1000Mobzill
 
 MobzillaCraft is a highly modded version of Forge for Minecraft 1.16.5 for Java. Such mods include: Better MC, Atum 2, Ice and Fire Dragons, and more!
 
+**NOTE:** Please be patient while the game loads - there are over 220+ mods in this game!
+
 ### Installation
 
 1. [Click here](https://www.google.com) to download the latest version of the game.
