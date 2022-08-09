@@ -10,7 +10,7 @@ MobzillaCraft is a highly modded version of Forge for Minecraft 1.16.5 for Java.
 
 ### Installation
 
-1. [Click here](https://www.google.com) to download the latest version of the game.
+1. [Click here](https://github.com/esheri3/1000Mobzilla/releases/download/v1.0/MobzillaCraft_1.0.zip) to download the latest version of the game, which is currently version 1.0.
 2. Once you download this file, extract its contents. Remember the name and location of the directory that is created.
 3. Run the Minecraft Launcher, select the "Installations" tab and then select the Forge 1.16.5 installation (click it, but do not run it!).
 4. Under "Game Directory" click the "Browse" button, and then navigate to the folder that was created when you extracted MobzillaCraft.
